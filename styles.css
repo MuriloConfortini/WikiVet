@@ -1,4 +1,10 @@
+
+*{
+  text-align: justify;
+}
+
 body {
+  text-align: justify;
   background-color: #ffffff;
   font-family: Arial, sans-serif;
 }
@@ -9,13 +15,16 @@ h1 {
   background-color: #372d93;
   padding: 30px;
   color: #000000;
-  text-align: center;
+  text-align: justify;
    background-image: url(imagens/logo\ deitado.png);
 background-repeat: no-repeat;
 background-position: right;}
 
 h3 {
-  font: 50px
+  font: 50px;
+  text-align: justify;
+  
+  
 }
 
 h5{
@@ -58,3 +67,4 @@ nav ul li a:hover {
 li:hover .submenu {
   display: block;
 }
+
